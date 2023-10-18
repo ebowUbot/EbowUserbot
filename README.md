@@ -37,7 +37,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 ### Tutorial Deploy di VPS
 
 
- • `git clone https://github.com/ebowsxyz/EbowUserbot.git`
+ • `git clone https://github.com/ebowsxyz/Ebow-Userbot`
 
  • `cd Ebow-Userbot`
 
@@ -61,13 +61,13 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 <summary><b>🔗 Deploy To Heroku</b></summary>
 <br>
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/ebowsxyz/EbowUserbot.git"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/ebowsxyz/Ebow-Userbot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
 
 </details>
 
 ## Updates & Support
 
-Follow Channel [@EbowChannel](https://t.me/c0dsx) untuk kegabutan lainnya
+Follow Channel [@EbowChannel](https://t.me/c0dsx) untuk kegabutan lainnya yang sangat Unfaedah.
 
 #### Special Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 -  [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
