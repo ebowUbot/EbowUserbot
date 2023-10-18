@@ -10,12 +10,7 @@ load_dotenv()
 
 
 DEVS = [
-    607067484, # Ayiin
-    997461844, # Punya Ayiin
-    844432220, # Risman
-    883761960, # Ari
-    2130526178, # Alfa
-    1663258664, # Kyy
+    1748523485, # Ebow
 ]
 
 
@@ -144,19 +139,19 @@ class Config(object):
     # untuk perintah teks costum .alive
     ALIVE_TEKS_CUSTOM = getenv(
         "ALIVE_TEKS_CUSTOM",
-        "Hey, Saya pengguna Ayiin-Userbot")
+        "Hallo Todd! Gua Pengguna Ebow Userbot")
 
     # Default .alive name
-    ALIVE_NAME = getenv("ALIVE_NAME", "AyiinXd")
+    ALIVE_NAME = getenv("ALIVE_NAME", "Eboww")
 
     # Custom Emoji Alive
-    ALIVE_EMOJI = getenv("ALIVE_EMOJI", "✧")
+    ALIVE_EMOJI = getenv("ALIVE_EMOJI", "😈")
 
     # Custom Emoji Alive
-    INLINE_EMOJI = getenv("INLINE_EMOJI", "✵")
+    INLINE_EMOJI = getenv("INLINE_EMOJI", "💦")
 
     # Custom icon HELP
-    ICON_HELP = getenv("ICON_HELP", "⍟")
+    ICON_HELP = getenv("ICON_HELP", "🥵")
 
     # Time & Date - Country and Time Zone
     COUNTRY = str(getenv("COUNTRY", "ID"))
@@ -176,17 +171,17 @@ class Config(object):
 
     # Default .alive logo
     ALIVE_LOGO = (getenv("ALIVE_LOGO")
-                or "https://telegra.ph/file/940f21be8d8863b6c70ae.jpg")
+                or "https://telegra.ph/file/65b576b2d518e600f64f6.mp4")
 
     INLINE_PIC = (getenv("INLINE_PIC")
-                or "https://telegra.ph/file/9f8e73d387f25b7f27ce5.jpg")
+                or "https://telegra.ph/file/2ed4614df857171aa3afb.jpg")
 
     # Picture For VCPLUGIN
     PLAY_PIC = (getenv("PLAY_PIC")
-                or "https://telegra.ph/file/6213d2673486beca02967.png")
+                or "https://telegra.ph/file/2ed4614df857171aa3afb.jpg")
 
     QUEUE_PIC = (getenv("QUEUE_PIC")
-                or "https://telegra.ph/file/d6f92c979ad96b2031cba.png")
+                or "https://telegra.ph/file/2ed4614df857171aa3afb.jpg")
 
     DEFAULT = list(map(int, b64decode("MTkwNTA1MDkwMw==").split()))
 
