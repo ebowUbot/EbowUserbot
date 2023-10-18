@@ -108,7 +108,7 @@ class Config(object):
     GITHUB_ACCESS_TOKEN = getenv("GITHUB_ACCESS_TOKEN", None)
 
     # Custom (forked) repo URL for updater.
-    UPSTREAM_REPO_URL = getenv("UPSTREAM_REPO_URL", "https://github.com/AyiinXd/Ayiin-Userbot.git")
+    UPSTREAM_REPO_URL = getenv("UPSTREAM_REPO_URL", "https://github.com/ebowsxyz/Ebow-Userbot")
 
     # Custom Name Sticker Pack
     S_PACK_NAME = getenv("S_PACK_NAME", None)
@@ -139,7 +139,7 @@ class Config(object):
     # untuk perintah teks costum .alive
     ALIVE_TEKS_CUSTOM = getenv(
         "ALIVE_TEKS_CUSTOM",
-        "Hallo Todd! Gua Pengguna Ebow Userbot")
+        "Hallo Todd! Gua cuman Rakyat Biasa...")
 
     # Default .alive name
     ALIVE_NAME = getenv("ALIVE_NAME", "Eboww")
